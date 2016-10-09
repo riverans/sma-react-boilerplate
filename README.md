@@ -11,5 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `npm start`
 
+Read more -:http://www.webduratech.com/blog/reactjs-application-tutorial
 
 Follow me on Twitter https://twitter.com/shemeermali
+
